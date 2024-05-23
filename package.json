@@ -1,10 +1,10 @@
 {
-  "name": "dotenv-stringify",
+  "name": "@boundstate/dotenv-stringify",
   "version": "3.0.0",
   "description": "Compose a envfile string from an object, per the motdotla/dotenv parser specifications",
   "repository": {
     "type": "git",
-    "url": "git+https://compwright@github.com/compwright/dotenv-stringify.git"
+    "url": "https://github.com/boundstate/dotenv-stringify.git"
   },
   "keywords": [
     "env",
@@ -20,7 +20,7 @@
   "bugs": {
     "url": "https://github.com/compwright/dotenv-stringify/issues"
   },
-  "homepage": "https://github.com/compwright/dotenv-stringify#readme",
+  "homepage": "https://github.com/boundstate/dotenv-stringify#readme",
   "type": "module",
   "engines": {
     "node": ">= 16"

@@ -9,14 +9,14 @@ Compose a envfile string from an object, per the [motdotla/dotenv](https://githu
 ## Installation
 
 ```
-$ npm install dotenv-stringify
+$ npm install @boundstate/dotenv-stringify
 ```
 
 ## Usage
 
 ```js
 import fs from 'fs'
-import stringify from 'dotenv-stringify'
+import stringify from '@boundstate/dotenv-stringify'
 const envstr = stringify(process.env);
 fs.writeFileSync('.env', envstr);
 ```
