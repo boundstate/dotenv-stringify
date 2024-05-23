@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## 3.0.1 (2024-05-23)
+
+
+### Bug Fixes
+
+* quote strings containing hashtag ([d0a4997](https://github.com/boundstate/dotenv-stringify/commit/d0a4997e5b36450754c2b69d79062cd837fd82c2))
+
 ## [3.0.0](https://github.com/compwright/dotenv-stringify/compare/v2.0.7...v3.0.0) (2022-11-20)
 
 
